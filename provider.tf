@@ -1,6 +1,6 @@
 provider "aws" {
-  shared_config_files = "/Users/srupanagudi/.aws/config"
-  shared_credentials_files = "/Users/srupanagudi/.aws/credentials"
+  shared_config_files = "/Users/srupanagudi~/.aws/config"
+  shared_credentials_files = "/Users/srupanagudi~/.aws/credentials"
   profile                 = "testing"
 }
 
